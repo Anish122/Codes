@@ -1,0 +1,63 @@
+1)  C Program to Add Two Integers
+2)  C Program to Multiply two Floating Point Numbers
+3)  C Program to Find ASCII Value of a Character
+4)  C Program to Find Quotient and Remainder of Two Integers Entered by User
+5)  C Program to Find Size of int, float, double and char of Your System
+6)  C Program to Swap Two Numbers
+7)  C Program to Check Whether a Number is Even or Odd
+8)  C Program to Check Vowel or Consonant
+9)  C Program to Find the Largest Number Among Three Numbers
+10)  C program to Find all Roots of a Quadratic equation
+11)  C Program to Check Leap Year
+12)  C Program to Check Whether a Number is Positive or Negative or Zero.
+13)  C Program to Check Whether a Character is an Alphabet or not
+14)  C Program to Calculate Sum of Natural Numbers
+15)  C Program to Find Factorial of a Number                        
+16)  C program to Generate Multiplication Table
+17)  C Program to Display Fibonacci Series
+18)  C Program to Find HCF of two Numbers
+19)  C Program to Find LCM of two Numbers
+20)  C Program to Count Number of Digits of an Integer
+21)  C Program to Reverse a Number
+22)  C Program to Check Whether a Number is Prime or Not
+23)  C Program to Display Prime Numbers Between Two Intervals
+24)  C program to Check Armstrong Number
+25) C Program to Display Armstrong Number Between Two Intervals                     
+26)  C program to Display Factors of a Number
+27)  C program to Print Pyramids and Triangles in C programming using Loops
+28)  C program to Make a Simple Calculator to Add, Subtract, Multiply or Divide Using switch...case
+29)  C Program to Display Prime Numbers Between Intervals by Making Function
+30)  C Program to Check Prime and Armstrong Number by Making Function
+31)  C program to Check Whether a Number can be Express as Sum of Two Prime Numbers
+32)  C program to Find Sum of Natural Numbers using Recursion.
+33)  C program to Calculate Factorial of a Number Using Recursion
+34)  C Program to Find H.C.F Using Recursion
+35)  C program to Reverse a Sentence Using Recusrion
+36)  C Program to Convert Binary Number to Decimal and Decimal to Binary
+36)  C Program to Convert Octal Number to Decimal and Decimal to Octal
+36)  C Program to Convert Binary Number to Octal and Octal to Binary
+37)  C Program to Calculate Average Using Arrays
+38)  C Program to Multiply to Matrix Using Multi-dimensional Arrays
+39)  C Program to Add Two Matrix Using Multi-dimensional Arryas
+40)  C Program to Calculate Standard Deviation
+41)  C Program to Find Largest Element of an Array
+42)  C Program to Find Transpose of a Matrix
+43)  C Program to Multiply two Matrices by Passing Matrix to Function
+44)  C Program to Sort Elements of an Array
+45)  C Program to Access Elements of an Array Using Pointer
+47)  C Program Swap Numbers in Cyclic Order Using Call by Reference
+48)  C Program to Find Largest Number Using Dynamic Memory Allocation
+*49) C Program to Find the Frequency of Characters in a String               
+50)  C Program to Find the Number of Vowels, Consonants, Digits and White space in a String
+51)  C Program to Remove all Characters in a String Except Alphabet
+*52)C Program to Reverse a String by Passing it to Function                
+53) C Program to Find the Length of a String
+54)  C program to Concatenate Two Strings
+55)  C Program to Store Information(name, roll and marks) of a Student Using Structure
+56)  C Program to Add Two Distances (in inch-feet) System Using Structures
+57)  C Program to Add Two Complex Numbers by Passing Structure to a Function
+58  C Program to Store Information of n Students Using Structure
+*59)C Program to Store Information Using Structures for n Elements Dynamically
+60)  C Program to Write to a Sentence to a File
+61)  C Program to Read a String of Text from File
+62)  C Program to Display its own Source Code as Output
